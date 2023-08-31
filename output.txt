@@ -1,0 +1,243 @@
+Script started on Sat 26 Mar 2022 06:45:44 PM HST
+]0;jonah20@uhx02:~/Project1[?1034huhx02:/home/j/jonah20/Project1% ./[[Kprogr[K[Kject
+
+Welcome to the bank! Here you can choose multiple options pertaining your back records and if you are new, you can create record that will be linked specifically to you and your account.
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: pr
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: find
+Enter account number to find a record in the database: 12
+Record does not exist
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: del
+Enter account number to delete the record from the database: 12 5
+Record does not exist!
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: add
+Enter number for account: 14
+Your account number is: 14
+Enter name for account: James
+Your account is under the name: James
+
+Enter an address for your account.
+Insert * symbol at the end of your address to indicate you are done: 567
+808 Ave..*
+Your account address is: 567
+808 Ave..
+
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: add
+Enter number for account: 87
+Your account number is: 87
+Enter name for account: Yellow
+Your account is under the name: Yellow
+
+Enter an address for your account.
+Insert * symbol at the end of your address to indicate you are done: Colv or Blvd together*
+Your account address is: Color Blvd together
+
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: add
+Enter number for account: 768
+Your account number is: 768
+Enter name for account: Harold
+Your account is under the name: Harold
+
+Enter an address for your account.
+Insert * symbol at the end of your address to indicate you are done: My House
+Lane,.*
+Your account address is: My House
+Lane,.
+
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: pr
+
+Record: 
+14
+James 
+567
+808 Ave..
+
+Record: 
+87
+Yellow 
+Color Blvd together
+
+Record: 
+768
+Harold 
+My House
+Lane,.
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: find 
+Enter account number to find a record in the database: 87
+Account number: 87
+Account name: Yellow 
+Account address: Color Blvd together
+Record found
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: delete
+Enter account number to delete the record from the database: 768
+Record was deleted!
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: find
+Enter account number to find a record in the database: 768
+Record does not exist
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: pr
+
+Record: 
+14
+James 
+567
+808 Ave..
+
+Record: 
+87
+Yellow 
+Color Blvd together
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: quit
+
+Program exited. Have a nice day!
+]0;jonah20@uhx02:~/Project1uhx02:/home/j/jonah20/Project1% cat BankDatabase.txt
+14
+James 
+567
+808 Ave..
+87
+Yellow 
+Color Blvd together
+]0;jonah20@uhx02:~/Project1uhx02:/home/j/jonah20/Project1% ./project debuggg
+Incorrect format!
+]0;jonah20@uhx02:~/Project1uhx02:/home/j/jonah20/Project1% ./project debug
+
+Debug Mode Activated
+
+readfile function called!
+It holds the parameters start(the pointer pointer to the start of record) and filename(the name of file to be read).
+Reading file: BankDatabase.txt
+
+addRecord function called!
+It holds the parameters start(the pointer to the record), uaccountno(the users account number), uname(the name the account is under), and uaddress(the accounts address).
+accNum = 14
+accName = James 
+accAddress = 567
+
+addRecord function called!
+It holds the parameters start(the pointer to the record), uaccountno(the users account number), uname(the name the account is under), and uaddress(the accounts address).
+accNum = 808
+accName = Ave..
+accAddress = 87
+
+addRecord function called!
+It holds the parameters start(the pointer to the record), uaccountno(the users account number), uname(the name the account is under), and uaddress(the accounts address).
+accNum = 808
+accName = Yellow 
+accAddress = Color Blvd together
+
+Welcome to the bank! Here you can choose multiple options pertaining your back records and if you are new, you can create record that will be linked specifically to you and your account.
+
+Menu: Type one of the below options into the console to access them. 
+add: Add a new record in the database. 
+printall: Print all records in the database. 
+find: Find record(s) with a specified account #. 
+delete: Delete existing record(s) from the database using the account #.
+quit: Exits out the program. Must enter the exact word 'quit'. 
+
+Enter name of option you want to use: quit
+
+writefile function called!
+It holds the parameters start(the pointer to the record) and character array filename(the file we are writing to.
+Writing File: BankDatabase.txt
+cleanup function called
+
+Program exited. Have a nice day!
+]0;jonah20@uhx02:~/Project1uhx02:/home/j/jonah20/Project1% exit
+exit
+
+Script done on Sat 26 Mar 2022 06:50:34 PM HST
